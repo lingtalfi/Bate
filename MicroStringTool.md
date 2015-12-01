@@ -4,7 +4,7 @@ MicroStringTool
 
 
 
-This class contains functions for manipulating strings at the level char.
+Class for manipulating strings at the level char.
 
 
 All examples here use 
@@ -18,7 +18,7 @@ skipBlanks
 2015-12-01
 
 
-Read the (assumed) utf-8 string from the given position,
+Read the (assumed) string from the given position,
 and skip the blanks (space or tab).
 The given position is updated.
 
