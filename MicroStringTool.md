@@ -35,7 +35,7 @@ void    skipBlanks ( str:string, int:&position )
 <?php
 
 
-use Bate\MicroStringTool;
+use Ling\Bate\MicroStringTool;
 
 require_once "bigbang.php";
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace Bate;
+namespace Ling\Bate;
 
 /*
  * LingTalfi 2015-12-01
  */
 
-use Bat\StringTool;
+use Ling\Bat\StringTool;
 
 class MicroStringTool
 {

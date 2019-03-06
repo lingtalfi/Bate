@@ -1,9 +1,9 @@
 <?php
 
-use Bate\MicroStringTool;
-use PhpBeast\AuthorTestAggregator;
-use PhpBeast\PrettyTestInterpreter;
-use PhpBeast\Tool\ComparisonErrorTableTool;
+use Ling\Bate\MicroStringTool;
+use Ling\PhpBeast\AuthorTestAggregator;
+use Ling\PhpBeast\PrettyTestInterpreter;
+use Ling\PhpBeast\Tool\ComparisonErrorTableTool;
 
 require_once "bigbang.php";
 
